@@ -1,6 +1,6 @@
 [project]
 name = "safe-filename-sanitizer"
-version = "0.1.0"
+version = "0.1.1"
 description = "Replaces or removes characters invalid on Windows, macOS, and Linux to produce a portable filename string."
 requires-python = ">=3.10"
 dependencies = []
